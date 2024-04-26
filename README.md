@@ -1,7 +1,7 @@
-![](https://raw.githubusercontent.com/axel-verse/axel-verse/main/meganet.svg)
+![](https://raw.githubusercontent.com/axel-verse/axel-verse/main/logo_transparent_small.png)
 
-# Александр "axel_verse" Мудров
+# Alexander "axel_verse" Mudrov
 
-**Веб-разработка, системное администрирование**
+**Web developer, system administrator**
 
 *Python / PHP / GO / Javascript*
